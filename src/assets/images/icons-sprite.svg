@@ -1,30 +1,9 @@
 <svg width="65" height="48" viewBox="0 0 65 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 
     <g id="ship">
-        <rect width="65" height="48" fill="#F5F5F5"/>
-        <g id="Desktop">
-            <rect width="1920" height="3826" transform="translate(-375 -26)" fill="url(#paint0_linear_1_9)"/>
-            <g id="Home">
-                <g id="Header">
-                    <g id="Group 1">
-                        <g id="icon-park-outline:paper-ship">
-                            <g id="Group">
-                                <path id="Vector" d="M5.41669 24L17.0233 42L32.5 29L5.41669 24Z" stroke="#00C1EC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-                                <path id="Vector_2" d="M59.5833 24L47.9768 42L32.5 29L59.5833 24Z" stroke="#00C1EC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-                                <path id="Vector_3" d="M17.6042 42H47.3959L32.5 29L17.6042 42Z" stroke="#00C1EC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-                                <path id="Vector_4" d="M16.25 26L32.5 4L48.75 26" stroke="#00C1EC" stroke-width="4" stroke-linejoin="round"/>
-                            </g>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-        <defs>
-            <linearGradient id="paint0_linear_1_9" x1="2.40096e-05" y1="350.717" x2="2151.1" y2="571.463" gradientUnits="userSpaceOnUse">
-                <stop stop-color="#2C2C2C"/>
-                <stop offset="1" stop-color="#1C1C1C"/>
-            </linearGradient>
-        </defs>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3125 42.0645L27.2623 6.6875L31.4375 7.87241L22.4878 43.3125L18.3125 42.0645Z" fill="#7572D5"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5025 12.6875L16.5625 15.9278L7.99501 25.0001L16.5625 34.0721L13.5025 37.3125L1.875 25.0001L13.5025 12.6875Z" fill="#7572D5"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M36.4976 12.6875L33.4375 15.9278L42.0051 25.0001L33.4375 34.0721L36.4976 37.3125L48.125 25.0001L36.4976 12.6875Z" fill="#7572D5"/>
     </g>
 
     <g id="youtubeSvg">
