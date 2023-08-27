@@ -1,5 +1,6 @@
 import React from 'react';
 import {Icon} from "../../../../components/icon/Icon";
+
 import styled from "styled-components";
 
 
@@ -10,9 +11,11 @@ type SkillPropsType = {
 }
 
 export const Skill = (props: SkillPropsType) => {
+
     return (
         <StyledSkill>
-            <Icon iconId={props.iconId}/>
+            {/*<img src={logo} alt="13131"/>*/}
+            <Icon iconId={props.iconId} />
             <SkillTitle>{props.title}</SkillTitle>
             <SkillText>{props.description}</SkillText>
         </StyledSkill>

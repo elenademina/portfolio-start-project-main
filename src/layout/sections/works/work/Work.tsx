@@ -6,9 +6,7 @@ type WorkPropsType = {
     title: string
     text: string
     src: string
-
 }
-
 
 export const Work = (props: WorkPropsType) => {
     return (
@@ -24,11 +22,14 @@ export const Work = (props: WorkPropsType) => {
 
 const StyledWork = styled.div`
   background-color: rgba(231, 205, 34, 0.73);
-
+  max-width: 540px;
+  width: 100%;
 `
 
 const Image = styled.img`
-
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
 `
 const Link = styled.a`
 

@@ -8,10 +8,9 @@ export const Main = () => {
         <StyledMain>
             <FlexWrapper align="center" justify="space-around">
                 <div>
-                    <span>Nakul Kumar</span>
-                    <span>Welcome</span>
-                    <Name>I’m Nakul Kumar</Name>
-                    <MainTitle>CEO , UXM Creative Studio</MainTitle>
+                    <span>hi! everyone</span>
+                    <MainTitle>Chris Lee brand designer</MainTitle>
+                    <span>Make designs mainly logos, visual identities, apps & websites, social media and magazines.</span>
                 </div>
             </FlexWrapper>
 
@@ -19,7 +18,6 @@ export const Main = () => {
         </StyledMain>
     );
 };
-
 
 const StyledMain = styled.div`
   min-height: 100vh;
@@ -37,5 +35,9 @@ const MainTitle = styled.h1`
 `
 
 const Name = styled.h2`
+
+`
+
+const Button=styled.button`
 
 `

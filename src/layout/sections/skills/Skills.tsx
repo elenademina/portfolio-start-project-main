@@ -9,22 +9,22 @@ export const Skills = () => {
         <StyledSkills>
             <SectionTitle>My Skills</SectionTitle>
             <FlexWrapper wrap={"wrap"} justify={"space-between"}>
-                <Skill iconId={"youtubeSvg"}
+                <Skill iconId={"code"}
                        title={"css3"}
                        description={"text1"}/>
-                <Skill iconId={"instagramSvg"}
+                <Skill iconId={"css"}
                        title={"html5"}
                        description={"text2"}/>
-                <Skill iconId={"ballSvg"}
+                <Skill iconId={"react"}
                        title={"React"}
                        description={"text3"}/>
-                <Skill iconId={"qu1Svg"}
+                <Skill iconId={"typeScript"}
                        title={"typescript"}
                        description={"text4"}/>
-                <Skill iconId={"qu2Svg"}
+                <Skill iconId={"styled"}
                        title={"styled components"}
                        description={"text5"}/>
-                <Skill iconId={"facebookSvg"}
+                <Skill iconId={"web"}
                        title={"WEB DESIgN"}
                        description={"text6"}/>
             </FlexWrapper>
